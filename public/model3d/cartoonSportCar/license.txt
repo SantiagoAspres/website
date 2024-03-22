@@ -1,0 +1,11 @@
+Model Information:
+* title:	Modern Cartoon Sports Car
+* source:	https://sketchfab.com/3d-models/modern-cartoon-sports-car-2186dbdfe51a42f9ae230431d1e9d754
+* author:	RCC Design (https://sketchfab.com/rccdesign)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Modern Cartoon Sports Car" (https://sketchfab.com/3d-models/modern-cartoon-sports-car-2186dbdfe51a42f9ae230431d1e9d754) by RCC Design (https://sketchfab.com/rccdesign) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
